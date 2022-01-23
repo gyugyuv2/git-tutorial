@@ -3,5 +3,9 @@ Python 3.9.6 (v3.9.6:db3ff76da1, Jun 28 2021, 11:49:53)
 Type "help", "copyright", "credits" or "license()" for more information.
 >>> def add(a + b):
         return a + b
+        
     def sub(a - b):
         return a - b
+        
+    def mul (a, b):
+        return a * b
