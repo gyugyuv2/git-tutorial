@@ -8,4 +8,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
         return a - b
         
     def mul (a, b):
-        return a * b
+        return a * b # 주석
